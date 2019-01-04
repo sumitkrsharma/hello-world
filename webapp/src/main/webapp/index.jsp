@@ -1,7 +1,8 @@
-<p>Regards</p>
-<p><b>Sumit Sharma</b></p>
-<p>M: 9650666126</p>
-<p>Website: www.geeksnetwork.info</p>
+<p>Previous version not look good</p>
+<p>Regards<br/>
+  <b>Sumit Sharma</b><br/>
+  M: 9650666126<br/>
+  Website: www.geeksnetwork.info<br/>
 <hr/>
-<p><i>Dream High, Work Hard, Learn with Passion, Success surely yours...</i></p>
+<i>Dream High, Work Hard, Learn with Passion, Success surely yours...</i></p>
 
