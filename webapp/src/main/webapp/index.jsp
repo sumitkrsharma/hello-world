@@ -1,4 +1,4 @@
-<p>Deploy using docker<p>
+<p>Deploy using docker with triggers<p>
 <p>Regards<br/>
   <b>Sumit Sharma</b><br/>
   M: 9650666126<br/>
