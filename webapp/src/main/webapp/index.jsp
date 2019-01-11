@@ -1,4 +1,4 @@
-<p>Git local push4 11012019<p>
+<p>Deploy using docker<p>
 <p>Regards<br/>
   <b>Sumit Sharma</b><br/>
   M: 9650666126<br/>
